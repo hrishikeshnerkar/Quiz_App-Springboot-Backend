@@ -1,6 +1,6 @@
 # 📚 QuizApp Backend
 
-A simple Spring Boot-based backend application for managing quizzes and questions. This project was built by Hrishikesh to understand the basics of Spring Boot, REST APIs, and JPA.
+A simple Spring Boot-based backend application for managing quizzes and questions. This project was built to understand the basics of Spring Boot, REST APIs, and JPA.
 
 ---
 
