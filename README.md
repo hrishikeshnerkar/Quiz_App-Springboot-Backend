@@ -75,4 +75,13 @@ A simple Spring Boot-based backend application for managing quizzes and question
    ```bash
    mvn spring-boot:run
    ```
+---
 
+## 👤 Author
+
+**Hrishikesh**  
+Full-stack developer passionate about building secure, scalable, and well-documented web applications.  
+Specialized in Spring Boot, React, and modern authentication flows.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh015)
+
+---
